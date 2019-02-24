@@ -7,4 +7,5 @@
   * [编码相关](performance/performance_java.md)
 * [架构设计篇](structure.md)
 * [问题解析篇](problems.md)
+* [AWS应用](lesson/aws_app/0001.md)
 
